@@ -1,4 +1,5 @@
-# Firebase Authentication with React   <img src="https://camo.githubusercontent.com/78d56cde947f63c7f4692e778c1418386f42a1b0ec5d7123e9f6eb4913ee7954/68747470733a2f2f626c6f672e6879706572696f6e6465762e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f426c6f672d41727469636c652d4d45524e2d537461636b2e6a7067" alt="Example Image" width="300" height="300" />
+   # <img src="https://camo.githubusercontent.com/78d56cde947f63c7f4692e778c1418386f42a1b0ec5d7123e9f6eb4913ee7954/68747470733a2f2f626c6f672e6879706572696f6e6465762e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f426c6f672d41727469636c652d4d45524e2d537461636b2e6a7067" alt="Example Image" width="600" height="300" />
+   # Firebase Authentication with React
 This is a React app integrated with Firebase Authentication. It allows users to sign up, log in, and manage authentication using email/password or Google sign-in. The app also provides navigation to different pages based on the user's authentication status.
 
 ## Table of Contents
