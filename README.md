@@ -1,5 +1,5 @@
-# Firebase Authentication with React
-
+# Firebase Authentication with React   <img src=" https://blog.nextideatech.com/how-to-get-started-with-the-mern-stack-a-comprehensive-guide/
+" alt="Example Image" width="300" height="300" />
 This is a React app integrated with Firebase Authentication. It allows users to sign up, log in, and manage authentication using email/password or Google sign-in. The app also provides navigation to different pages based on the user's authentication status.
 
 ## Table of Contents
